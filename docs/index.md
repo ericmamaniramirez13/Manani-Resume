@@ -43,26 +43,23 @@ __Bartender									                          Sept 2018 – Dec 2018__
 __Math Tutor__, Brigham Youn Univeristy - Idaho
 
 ## Domain Programming Languages
--SQL
--Python
--HTML
--CSS
--JavaScript
+
+* SQL
+* Python
+* HTML
+* CSS
+* JavaScript
 
 ## Skills
--Excellent Communication 
--Problem-Solving Abilities 
--Quick learner
--Proactive 
--Teamwork 
--Customer Service 
+
+* Excellent Communication 
+* Problem-Solving Abilities 
+* Quick learner
+* Proactive 
+* Teamwork 
+* Customer Service 
 
 
 
 
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+Last updated: Dec 2021 -->
